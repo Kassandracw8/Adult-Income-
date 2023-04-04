@@ -4,4 +4,5 @@ This data set contains information about age, gender, occupation, education, wor
 The project involved data assessment and cleaning, performing EDA and drawing conclusions from the data.
 # Technologies Used
 Python, Numpy, Pandas, Matplotlib, Seaborn
+
 Google Colab
