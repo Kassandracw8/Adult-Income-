@@ -55,13 +55,13 @@ Bagging	0.826059
 
 
 
-Using the RandomForest model would be th best to predict what factors make someone have a high income. Fromt the training model to the tune model the Random Forest was simialr in accuracy.
+Using the RandomForest model would be the best to predict what factors make someone have a high income. Fromt the training model to the tune model the Random Forest was simialr in accuracy.
 
 
 # Rcommendations
 Data Science Insights 
 
- * From the data set that was given if you were male, white, married and had a high level of education your income was above 50,0000. Also I am not saving that a women or any other race can make above 50,000. If anyone has the motivation to work hard they can defiently achieve a high income.
+ * From the data set that was given if you were male, white, married and had a high level of education your income was above 50,0000.
  * If we made college more affordable there might be chance for some races to recieved a high education as well.
 
 * As for the pay gap between men and women. The solutions include raising the minimum wage, promoting transparent pay practices, increasing workplace unionization, and providing robust paid family and medical leave for workers. Making these changes at the individual, company, state, and national level could go a long way towards achieving equal pay for equal work.
@@ -71,7 +71,7 @@ Data Science Insights
 
 
 # Limitations & Next Steps
-This data set is from 1994 a lot has change since then. A lot has change since 1994 and this data is good insight to learn and how to change that stigma. Make better future for the minority.
+This data set is from 1994 a plenty has change since then. It would be instersting to do the the study with this current time period.
 
 
 
