@@ -55,7 +55,7 @@ Bagging	0.826059
 
 
 
-Using the RandomForest model would be the best to predict what factors make someone have a high income. Fromt the training model to the tune model the Random Forest was simialr in accuracy.
+Using the RandomForest model would be the best to predict what factors make someone have a high income. From the training model to the tune model the Random Forest was simialr in accuracy.
 
 
 # Rcommendations
